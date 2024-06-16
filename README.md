@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Boas vindas ao meu perfil💙
-- Meu nome é Thailane Franco
+- Meu nome é **Thailane Franco**
 - Sou professora e trabalho com a plataforma Alura.
 - Está disponivel meu imail para tirar qualquer duvida.
   ### Desde ja agradeço ###
